@@ -1,0 +1,29 @@
+Surprise Housing Assignment
+
+Case Study on Surprise Housing:
+Surprise Housing,a US-based housing company has decided to enter the Australian market.
+The company uses data analytics to purchase houses at a low market value and sell them at a higher price.
+For this purpose, the company has collected a data set from the sale of houses in Australia and saved under train.csv.
+
+The company is looking at such low value properties to buy to enter the market.
+We need to build a regression model using regularisation in order to predict the actual value of the properties and decide whether to invest in them or not.
+
+Objective:
+Model the price of houses with the available independent variables. 
+This model will be used by Surprise Housing management to understand how exactly the prices vary with the variables.
+They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns.
+Further, the model will be a good way to understand the pricing dynamics of a new market for management.
+
+Approach followed:
+Using Advance Regression Model (Ridge and Lasso) to predict this price of houses with the available independent variables.
+
+Technologies:
+library - pandas
+library - numpy
+library - matplotlib
+library - seaborn
+library - statsmodels
+library - sklearn
+
+Contact:
+Done by Sudha240- feel free to contact me for further queries on above assignment.
